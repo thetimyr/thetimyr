@@ -1,4 +1,4 @@
-# ПРИВЕТ НА МОЕЙ СТРАНИЦЕ 👋, НА ГИТХАБЕ 🦦
+# 👋 ПРИВЕТ НА МОЕЙ СТРАНИЦЕ 
 
 **Программирую обычно на:**
 ![PHP](https://img.shields.io/badge/-PHP-%230075a8?logo=PHP&logoColor=white&style=flat-square) ![JavaScript](https://img.shields.io/badge/-JavaScript-%23e9d54c?logo=javascript&logoColor=white&style=flat-square) ![HTML](https://img.shields.io/badge/-HTML-%23de4b25?logo=html5&logoColor=white&style=flat-square) ![CSS](https://img.shields.io/badge/-CSS-%230174b8?logo=css3&logoColor=white&style=flat-square) ![Java](https://img.shields.io/badge/-Java-%230174b8?logo=java&logoColor=white&style=flat-square) 
