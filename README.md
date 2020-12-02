@@ -1,4 +1,4 @@
-![he](https://github.com/Thetimyr/Thetimyr/blob/master/Cr4-mUbNwXk.jpg)
+![123](https://github.com/Thetimyr/Thetimyr/blob/master/Cr4-mUbNwXk.jpg)
 # 👋 ПРИВЕТ НА МОЕЙ СТРАНИЦЕ 
 ## Мои способности
 **Программирую обычно на:**
