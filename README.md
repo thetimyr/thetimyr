@@ -4,9 +4,8 @@
 ![PHP](https://img.shields.io/badge/-PHP-%230075a8?logo=PHP&logoColor=white&style=flat-square) ![JavaScript](https://img.shields.io/badge/-JavaScript-%23e9d54c?logo=javascript&logoColor=white&style=flat-square) ![HTML](https://img.shields.io/badge/-HTML-%23de4b25?logo=html5&logoColor=white&style=flat-square) ![CSS](https://img.shields.io/badge/-CSS-%230174b8?logo=css3&logoColor=white&style=flat-square) ![Java](https://img.shields.io/badge/-Java-%230174b8?logo=java&logoColor=white&style=flat-square)   
 
 ![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=thetimyr&layout=compact)
-# Социальные сети
-- <a href="https://t.me/thetimyr"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" width=16 height=16 /> Telegram - @thetimyr</a>
-- <a href="https://vk.com/the.timyr"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/1024px-VK.com-logo.svg.png" width=16 height=16 /> VK - @the.timyr</a>
+
+
 <!-- ![universe-frame](https://i.giphy.com/media/J39gurpvL7SHpnTTJB/giphy.webp "Universe Big Bang") -->
 
 <!--
@@ -30,6 +29,11 @@ Here are some ideas to get you started:
 - 💬 Let's talk about Software Architecture, Java, Security, Development Patterns.
 - 🏆 I'm an avid improver. Continuously learning how to make the world better.
 - Originally from **Medellin** 🇨🇴, now based in **Amsterdam** 🇳🇱
+
+
+# Социальные сети
+- <a href="https://t.me/thetimyr"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" width=16 height=16 /> Telegram - @thetimyr</a>
+- <a href="https://vk.com/the.timyr"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/1024px-VK.com-logo.svg.png" width=16 height=16 /> VK - @the.timyr</a>
 
 ## Some of my Github Stats
 
