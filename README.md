@@ -28,8 +28,10 @@ Here are some ideas to get you started:
 - Originally from **Medellin** 🇨🇴, now based in **Amsterdam** 🇳🇱
 
 ## Some of my Github Stats
-[![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=thetimyr&show_icons=true&include_all_commits=true&theme=Gradient&count_private=true&hide=contribs)](https://github.com/pedes/github-readme-stats)
-[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=thetimyr&layout=compact)](https://github.com/pedes/github-readme-stats)
+[![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=thetimyr&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/pedes/github-readme-stats)
+[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=thetimyr&layout=compact)]
 
 
-<!--![Pedes's github stats](https://github-readme-stats.vercel.app/api?username=pedes) -->
+<!--![Pedes's github stats](https://github-readme-stats.vercel.app/api?username=pedes) 
+
+(https://github.com/pedes/github-readme-stats)-->
