@@ -44,7 +44,6 @@ Here are some ideas to get you started:
 - Ноутбук: Huawei MateBook D14 AMD 7 3700U  
 - Компьютер: AtlonX64, AMD Radeon.   
 
-## 💖Поддержать
 
 ## Остальная статистика
 
