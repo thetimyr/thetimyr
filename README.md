@@ -25,17 +25,17 @@ Here are some ideas to get you started:
 
 <!-- - 📫 Let's get social: <a href="https://www.linkedin.com/in/andrespedes12/"> <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a>   -->
 
-- 🤓 I'm Java Advocate (a.k.a. Evangelist)
-- 💬 Let's talk about Software Architecture, Java, Security, Development Patterns.
-- 🏆 I'm an avid improver. Continuously learning how to make the world better.
-- Originally from **Medellin** 🇨🇴, now based in **Amsterdam** 🇳🇱
+- 🤓 Я Java разработчик 
+- 💬 Предпочитаю общаться только по делу
+- 🏆 Я стараюсь делать мир лучше! Но мой говнокод этого не позволяет
+- Родился в **Kazan** Russia. 
 
 
 # Социальные сети
 - <a href="https://t.me/thetimyr"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" width=16 height=16 /> Telegram - @thetimyr</a>
 - <a href="https://vk.com/the.timyr"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/1024px-VK.com-logo.svg.png" width=16 height=16 /> VK - @the.timyr</a>
 
-## Some of my Github Stats
+## Остальная статистика
 
 ![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=thetimyr&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)
 
