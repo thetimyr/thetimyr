@@ -1,4 +1,5 @@
-![123](https://github.com/Thetimyr/Thetimyr/blob/master/Cr4-mUbNwXk.jpg)
+![Hi](https://github.com/Thetimyr/Thetimyr/blob/main/Cr4-mUbNwXk.jpg?raw=true)
+
 # 👋 ПРИВЕТ НА МОЕЙ СТРАНИЦЕ 
 ## Мои способности
 **Программирую обычно на:**
